@@ -16,26 +16,26 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Europe/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bello Muhammad                          # the main title
+title: bellomd                          # the main title
 
-tagline: '' #A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 'All About distributed systems, big data and event stream systems' #A text-focused Jekyll theme   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A hub for solutions to web and distributed systems software design, architecture and development.
+  A hub for solutions to web and distributed systems, big data, event streaming, message brokers, architecture and software development.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://bellomd.com'
 
 github:
-  username: bellomdanbinta             # change to your github username
+  username: bellomd             # change to your github username
 
 twitter:
-  username: bellomdanbinta            # change to your twitter username
+  username: bllmhmmd            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,11 +44,11 @@ social:
   email: bellomdanbinta@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/bellomdanbinta      # change to your twitter homepage
-    - https://github.com/bellomdanbinta       # change to your github homepage
+    - https://twitter.com/bllmhmmd      # change to your twitter homepage
+    - https://github.com/bellomd       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/bellomdanbinta
-    - https://www.linkedin.com/in/bellomdanbinta
+    - https://www.facebook.com/bllmhmmd/
+    - https://www.linkedin.com/in/bellomd
 
 google_site_verification:               # fill in to your verification string
 
@@ -73,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark   # [light|dark]
+theme_mode:  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
